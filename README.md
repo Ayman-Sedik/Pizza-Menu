@@ -1,4 +1,5 @@
 # Pizza Menu
+![Pizza Menu Project](https://github.com/Ayman-Sedik/Pizza-Menu/assets/87248906/a821d0f7-90cf-4816-8fd2-acde56124138)
 
 ## Getting Started with Create React App
 
